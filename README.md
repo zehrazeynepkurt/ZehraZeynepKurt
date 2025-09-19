@@ -1,4 +1,4 @@
-![MasterHead](https://share.google/images/tArCQtgaZkC8CaYBK)
+[![MasterHead](https://share.google/images/tArCQtgaZkC8CaYBK)
 
 
 <h1 align="center">Hi 👋, I'm Zehra Zeynep Kurt</h1>
@@ -30,6 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zehrazeynepkurt&show_icons=true&locale=en" alt="zehrazeynepkurt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zehrazeynepkurt&" alt="zehrazeynepkurt" /></p>
-
-Kaynak <https://rahuldkjain.github.io/gh-profile-readme-generator/<img width="745" height="1212" alt="image" src="https://github.com/user-attachments/assets/14f7b3cc-8def-4da2-bdc5-ce36d7a26516" />
+<img width="745" height="1172" alt="image" src="https://github.com/user-attachments/assets/cdcdce9a-0e4c-46e0-bcf8-bc1a28d69798" />
 
