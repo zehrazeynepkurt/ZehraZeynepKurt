@@ -1,4 +1,4 @@
-https://share.google/images/tArCQtgaZkC8CaYBK
+![MasterHead](https://share.google/images/tArCQtgaZkC8CaYBK)
 
 
 <h1 align="center">Hi 👋, I'm Zehra Zeynep Kurt</h1>
